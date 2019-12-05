@@ -6,7 +6,6 @@
 ionic start <project_ name> <template_name>
 ```
 
-``
 Available options for template_name in Ionic 4 \
 \
 Starters for @ionic/angular (--type=angular) \
@@ -50,4 +49,4 @@ tabs     | A starting project for Ionic using a simple tabbed interface \
 sidemenu | A starting project for Ionic using a side menu with navigation in the content area \
 blank    | A blank starter project for Ionic \
 maps     | An Ionic starter project using Google Maps and a side menu \
-``
+
