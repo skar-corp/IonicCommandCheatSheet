@@ -10,9 +10,9 @@ Available options for template_name in Ionic 4 \
 \
 Starters for @ionic/angular (--type=angular) \
 \
-name         | description \
+name          | description \
 --------------------------------------------------------------------------------------- \
-tabs         | A starting project with a simple tabbed interface \
+tabs          | A starting project with a simple tabbed interface \
 sidemenu     | A starting project with a side menu with navigation in the content area \
 blank        | A blank starter project \
 my-first-app | An example application that builds a camera with gallery  \
@@ -27,7 +27,8 @@ blank      | A blank starter project \
 sidemenu   | A starting project with a side menu with navigation in the content area \
 tabs       | A starting project with a simple tabbed interface \
 conference | A kitchen-sink application that shows off all Ionic has to offer \
-\\
+\
+\
 Starters for Ionic 2/3 (--type=ionic-angular) \
 \
 name     | description \
