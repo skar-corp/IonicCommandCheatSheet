@@ -9,9 +9,9 @@ ionic start <project_ name> <template_name>
 Available options for template_name in Ionic 4 \
 \
 Starters for @ionic/angular (--type=angular) \
-
-name         | description <br/>
---------------------------------------------------------------------------------------<br\>
+\
+name         | description \
+--------------------------------------------------------------------------------------- \
 tabs         | A starting project with a simple tabbed interface<br\>
 sidemenu     | A starting project with a side menu with navigation in the content area <br\>
 blank        | A blank starter project <br\>
