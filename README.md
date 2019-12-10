@@ -50,3 +50,21 @@ sidemenu | A starting project for Ionic using a side menu with navigation in the
 blank    | A blank starter project for Ionic \
 maps     | An Ionic starter project using Google Maps and a side menu \
 
+## Command to run a new server within ionic project folder
+
+```
+ionic serve -l
+```
+
+## Command to create new page
+
+```
+ionic genrate page <name>
+```
+
+## Configure firebase in your project folder
+### Step 1: Install fire base in project folder
+
+```
+npm install firebase --save
+```
