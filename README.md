@@ -68,3 +68,23 @@ ionic genrate page <name>
 ```
 npm install firebase --save
 ```
+
+### Step 2: Configure app.module.ts
+
+Add the following lines
+
+```
+import * as firebase from 'firebase';
+
+firebase.initializeApp({
+## json object from firebase
+  apiKey: "<apikey>",
+  authDomain: "<domain>",
+  databaseURL: "<databaseurl>",
+  projectId: "<>",
+  storageBucket: "<>",
+  messagingSenderId: "<>",
+  appId: "<>",
+  measurementId: "<>"
+});
+```
